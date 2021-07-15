@@ -1,0 +1,8 @@
+.footer__columns{
+  max-width: 1422px;
+  margin: 60px auto 40px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  color: white;
+}
