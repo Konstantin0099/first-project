@@ -1,0 +1,11 @@
+.header__title{
+  margin-left: 64px;
+  align-self: center;
+  width: 730px;
+  height: auto;
+  font-size: 96px;
+  font-weight: bold;
+  line-height: 102px;
+  flex-shrink: 1;
+  z-index: 2;
+}

@@ -1,0 +1,9 @@
+.cards__item{
+  width: 240px;
+  /* margin-right: 100px; */
+
+  display: block;
+  text-align:  center;
+}
+
+
